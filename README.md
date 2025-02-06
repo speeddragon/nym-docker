@@ -1,6 +1,6 @@
 # Nym Docker
 
-Deploy [Nym](https://nym.com/) as a docker image. 
+Deploy [Nym](https://nym.com/) SOCKS5 client as a docker image. 
 
 ## Steps
 Build image.
